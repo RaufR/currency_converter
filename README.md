@@ -1,5 +1,7 @@
 React Currency BUY/SELL with  exchangeratesapi
 
+[DEMO](https://raufr.github.io/reactCurrencyChart_ExchangeRateApi/)
+
 
 *Clone/Download the repo.
 
